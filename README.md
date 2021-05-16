@@ -5,4 +5,6 @@ Timer 2 is configured in encoder mode to read the pulses generated from the enco
 
 The motor control pin is connected to PA5 and the LED is conected to PA6 
 
+The code has been developed entrily using register manipulation using keil uVision developement enoviroment 
+
 ![alt text](https://i.imgur.com/xbkrLpF.jpg)
